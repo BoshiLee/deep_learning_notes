@@ -24,3 +24,5 @@ transforms.Normalize((0.5,), (0.5,))
 
 ]) #把灰階從0~255壓縮到0~1
 ```
+
+[TORCHVISION.TRANSFORMS API Doc](https://pytorch.org/vision/stable/transforms.html)
