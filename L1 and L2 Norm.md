@@ -1,0 +1,1 @@
+[# 理解L1，L2 範數在機器學習中應用](https://www.twblogs.net/a/5c80a66abd9eee35cd693c3e)
