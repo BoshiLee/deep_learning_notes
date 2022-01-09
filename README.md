@@ -1,0 +1,2 @@
+# deep_learning_notes
+放台大李鴻毅課程筆記與深度學習相關筆記
